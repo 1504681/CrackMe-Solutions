@@ -1,4 +1,4 @@
-[image]2021-10-02-08-30-53.png
+![image](images/2021-10-02-08-41-24.png)
 
 the file creates the string of the correct date of birth in memory, then does a strcmp
 
